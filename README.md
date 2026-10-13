@@ -1,4 +1,4 @@
-## Olá, eu sou a Vitória Kelly Alexandre 👋
+## Olá👋, eu sou a Vitória Kelly 
 
 Sou Tecnóloga em Análise e Desenvolvimento de Sistemas pela Unigrande Maranguape e estou direcionando minha carreira para a área de Ciência de Dados.
 
