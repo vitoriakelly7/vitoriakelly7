@@ -1,4 +1,4 @@
-## Olá!👋 me chamo Vitória Kelly 
+## Olá, eu sou a Vitória Kelly Alexandre 👋
 
 <!--
 **vitoriakelly7/vitoriakelly7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
