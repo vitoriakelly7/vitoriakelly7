@@ -1,7 +1,9 @@
 ## Olá, eu sou a Vitória Kelly Alexandre 👋
 
 Sou Tecnóloga em Análise e Desenvolvimento de Sistemas pela Unigrande Maranguape e estou direcionando minha carreira para a área de Ciência de Dados.
+
 Tenho conhecimento em Python, Programação Orientada a Objetos (POO), SQL e Visual Studio Code. Atualmente continuo meus estudos de forma independente, aprofundando conhecimentos em análise de dados, manipulação de dados e visualização de informações.
+
 Além da área técnica, possuo conhecimento de inglês em nível intermediário (B1), desenvolvido ao longo de três anos de estudo e prática contínua.
 
 <!--
